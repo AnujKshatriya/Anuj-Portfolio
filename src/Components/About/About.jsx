@@ -17,9 +17,9 @@ const About = () => {
         </div>
         <div className="about-right">
           <div className="about-para">
-            <p>Hello! I'm a B.Tech student at IIT Gandhinagar with a passion for full-stack web development. On the frontend, I'm skilled in JavaScript, React, Next.js, Tailwind CSS, also I have experience with animation libraries like Locomotive js and GSAP. On the backend, I work with Express.js, Node.js and Flask. Additionally, I'm proficient in managing both MongoDB and SQL databases, with good understanding of Git and Github. 
+            <p>Hello! I'm a B.Tech student at IIT Gandhinagar with a passion for full-stack web development. On the frontend, I have expertise in JavaScript, TypeScript, React, Next.js, and Tailwind CSS, and I've worked with animation libraries like Locomotive Scroll, Framer Motion and GSAP. On the backend, I'm experienced with Express.js, Node.js, and Flask. Additionally, I'm proficient in managing both MongoDB and SQL databases, with a solid understanding of Git, GitHub, Docker containerization, and deploying applications using AWS services.
             </p>
-            <p>I am always open to collaborations and new opportunities.<br></br>Feel free to explore my projects and contact me!</p> 
+            <p>I am always open to collaborations and new opportunities. Feel free to explore my projects and contact me!</p> 
           </div>
           <div className="about-skills">
             <div className="about-skill"><p>Mongo DB</p><hr style={{width:"50%"}}/></div>

@@ -1,5 +1,17 @@
 const projectData = [
     {
+        title : "Quizzer",
+        description : 'It is a real-time quiz application using the MERN stack, incorporating Socket.io for instant, live quiz participation and communication. The project features dynamic question handling, real-time score updates,and a responsive user interface',
+        url : "https://github.com/AnujKshatriya/Quiz-App",
+        image : "/websites-image/quizzer.png"
+    },
+    {
+        title : "Quick Pay",
+        description : 'It is a payment application with key features like sending money, withdrawing user balances, and processing bank webhooks. The project utilized a modern tech stack including Next.js, Express for auxiliary services, Turborepo for monorepo management, and Prisma ORM with PostgreSQL.',
+        url : "https://github.com/AnujKshatriya/Quick-Pay",
+        image : "/websites-image/quickpay.png"
+    },
+    {
         title : "LearnHub",
         description : 'It is an educational platform developed using React.js for IIT-JEE aspirants curating top YouTube videos. It features a Complete Revision Section, Quick Revision Section, PYQs Practice Videos and JEE Tips and Tricks section',
         url : "https://learnhub-jee.netlify.app/",
