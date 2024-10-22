@@ -2,8 +2,14 @@ const projectData = [
     {
         title : "Quizzer",
         description : 'It is a real-time quiz application using the MERN stack, incorporating Socket.io for instant, live quiz participation and communication. The project features dynamic question handling, real-time score updates,and a responsive user interface',
-        url : "https://github.com/AnujKshatriya/Quiz-App",
+        url : "https://quizzer-x.netlify.app/",
         image : "/websites-image/quizzer.png"
+    },
+    {
+        title : "Docker Proxy Service",
+        description : 'It is a  real-time Docker container management, enabling users to list, create, stop, and access containers. The backend uses a custom reverse proxy, to proxy all running containers without additional web servers. Real-time updates via Socket.IO keep the UI synced, and Docker Compose orchestrates services for container creation and networking.',
+        url : "https://github.com/AnujKshatriya/Docker-Proxy-Server",
+        image : "/websites-image/DRP-2.png"
     },
     {
         title : "Quick Pay",
