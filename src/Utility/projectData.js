@@ -1,5 +1,11 @@
 const projectData = [
     {
+        title : "Vercel-like Deployment System",
+        description : "Developed a deployment system replicating Vercel's workflow, enabling secure project deployments from GitHub in isolated AWS ECS containers. Implemented real-time log streaming with Kafka and ClickHouse, and managed file storage in AWS S3 with secure access control via a reverse proxy.",
+        url : "https://github.com/AnujKshatriya/Vercel-Prototype.git",
+        image : "/websites-image/vercel.png"
+    },
+    {
         title : "Quizzer",
         description : 'It is a real-time quiz application using the MERN stack, incorporating Socket.io for instant, live quiz participation and communication. The project features dynamic question handling, real-time score updates,and a responsive user interface',
         url : "https://quizzer-x.netlify.app/",
