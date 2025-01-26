@@ -16,7 +16,7 @@ const Home = () => {
       <p>With a strong expertise in the MERN stack & deployment, I specialize in crafting dynamic and visually engaging frontend experiences using React, Next.js</p>
       <div className="hero-action">
         <div onClick={()=>getSearch(linkedinUrl)} className=" btn hero-connect">Connect</div>
-        <div onClick={()=>getSearch("https://drive.google.com/file/d/1dRoeOe146fZc-vWC9jHrhU_SHf1vmHOp/view?usp=sharing")} className=" btn hero-resume">My Resume</div>
+        <div onClick={()=>getSearch("https://drive.google.com/file/d/1_x9TZh8FFkLmBA_YpNq8rtnbn2fXNxgV/view?usp=sharing")} className=" btn hero-resume">My Resume</div>
       </div>
     </div>
   )
